@@ -1,0 +1,11 @@
+## 📊 E-Commerce Marketing & Sales Analytics Project
+
+This project is an end-to-end **E-commerce Data Analytics** case study focused on extracting actionable business insights from transactional datasets. Using **Python, Pandas, NumPy, Seaborn, and Matplotlib**, the analysis explores customer behavior, sales performance, retention patterns, and revenue optimization strategies through structured **Exploratory Data Analysis (EDA)** and advanced business analytics techniques.
+
+The workflow begins with **data preprocessing and feature engineering**, including cleaning raw data, handling missing values, calculating invoice values with discount and GST logic, and creating time-based features such as month, weekday, cohort index, and first purchase month. Key analytical frameworks implemented in this project include **RFM Segmentation (Recency, Frequency, Monetary)** to classify customers into Premium, Gold, Silver, and Standard tiers, enabling personalized marketing and loyalty strategies.
+
+The project performs deep **Cohort Analysis and Customer Retention Analysis** to identify high-value acquisition periods and weaker cohorts requiring targeted engagement. **Customer Lifetime Value (LTV) Analysis** is used to evaluate long-term revenue contribution across acquisition months, guiding acquisition cost optimization and retention investment decisions. Additionally, **Product Performance Analysis** highlights top-selling SKUs based on revenue and quantity, supporting smarter inventory planning and bundling strategies.
+
+Seasonal and temporal insights are derived through **Time Series Analysis**, identifying sales peaks by category, location, and day of week to optimize promotional planning and demand forecasting. Visual storytelling through data visualization communicates trends such as new vs existing customer revenue, weekday vs weekend performance, and seasonal demand variations.
+
+Overall, this project demonstrates strong skills in **Data Analysis, Business Intelligence, Marketing Analytics, Customer Segmentation, Cohort Modeling, Data Visualization, and Strategic Decision Making**. It bridges technical analytics with real business impact, showcasing how data-driven insights can improve acquisition efficiency, retention performance, and long-term revenue growth.
